@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://aiffin123:aiffin123@devconnector.ihmkb.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken":"mysecrettoken",
+    "githubClientId":"dc654d2cc0819521e3ee",
+    "githubSecret":"478cbdd94531d09b1ccf8cd3f8a25bb8e0cfb0a6"
+}
